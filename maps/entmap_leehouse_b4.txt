@@ -1,0 +1,52 @@
+For use on servers with somekind of ent-moveing DLL
+such as AVC, Adminop, Entmod, NTF, Flipside etc.
+For best results use AVC, most ents can be moved 
+with multiples of 128 units
+The garage door only seems to work right with AVC 
+after you use spawnagain
+*NEW* euse a floor or wall ent to change its texture
+my AVC script is included, to use it put both AVC files
+in you TFC dir and add this line you your autoexec.cfg file
+"exec avc.cfg"
+you might also need to exec it ingame 
+the first time you use it too
+the script uses the keypad keys and will overbind them if bound
+
+NOTE: This is a beta map,
+
+Changes from b3
+Reduced number of ents to stop the too many ents bug
+toggleable textures on floor and wall ents
+added pillars
+added chainlink fence and gates
+realligned some ents to fit with 128 unit moves
+My AVC script is included in the ZIP for easy ent moving
+
+Changes from b2
+rearranged areas, there are now 3, one normal size, 
+one large and one normal sized with high walls
+Added extra ents including:
+Shower
+Microwave + toaster
+Fireplaces
+Road bits, traffic lights, street lamp and a gatso
+Rug
+Double-hight walls+windows and unpanneled inside walls
+
+
+Changes from b1
+Area layout changed to make building with AVC easier
+Lots of extra ents including:
+Extra roof sections including gable-making ents
+Kitchen furniture including counters
+Bathroom furniture
+Car and garage door
+Extra doors rotated at 90 degrease
+Large 4-section flat windows
+Flat roof sections
+42 inch rear-projection TV
+
+please report any bugs/ideas to lee.wakefield@NOSPAMntlworld.com
+please remove NOSPAM when mailing 
+(this is to stop viruses getting my address from
+the file should someone who has it get infected)
